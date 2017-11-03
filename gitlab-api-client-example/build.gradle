@@ -1,0 +1,7 @@
+group 'at.d4m.gitlab'
+version '1.0-SNAPSHOT'
+
+dependencies {
+    compile project(':')
+    compile('org.slf4j:slf4j-simple:1.7.25')
+}

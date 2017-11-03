@@ -1,0 +1,3 @@
+rootProject.name = 'gitlab-api-client'
+include 'gitlab-api-client-example'
+
